@@ -9,7 +9,7 @@ class Node{
 	}
 }
 
- class Queueq{
+ class Queue{
 	Node head;
 	Node rear;
 	 Queueq(){
