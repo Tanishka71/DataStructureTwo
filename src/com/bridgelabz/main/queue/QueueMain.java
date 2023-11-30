@@ -1,7 +1,7 @@
 package com.bridgelabz.main.queue;
 
 // main class
-public class QueueLL {
+public class QueueMain {
 	public static void main(String [] args) {
 		Queueq queue=new Queueq();
 		queue.enqueue(56);
