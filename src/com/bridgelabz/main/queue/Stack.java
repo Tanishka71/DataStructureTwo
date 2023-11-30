@@ -1,16 +1,9 @@
 package com.bridgelabz.main.queue;
 
-//class Node{
-//	int data;
-//	Node next;
-//	Node(int data){
-//		this.data=data;
-//	}
-//}
 
-class StackFun{
+class Stack{
 	Node head;
-	StackFun(){
+	Stack(){
 		head=null;
 	}
 	
